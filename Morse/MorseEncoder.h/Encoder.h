@@ -10,4 +10,4 @@ public:
     virtual std::string decode(const std::string& input) const = 0;
 };
 
-#endif // ENCODER_H
+#endif 
